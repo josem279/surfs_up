@@ -18,9 +18,9 @@ The results from our analysis of the temperatures in the months of June and Dece
 
 Below are screenshots of the descriptive statistics for each month:
 
-!["June Stats"]()
+![June Stats](https://github.com/josem279/surfs_up/blob/master/June_stats.PNG)
 
-!["December Stats"]()
+![December Stats](https://github.com/josem279/surfs_up/blob/master/December_stats.PNG)
 
 ## Summary
 
