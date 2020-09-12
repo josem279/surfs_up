@@ -30,4 +30,4 @@ Aside from our analysis, two other queries that I would perform on the weather d
 
 ![Histograms](https://github.com/josem279/surfs_up/blob/master/June_Dec_Hist.PNG)
 
-![Precipitation Info:](https://github.com/josem279/surfs_up/blob/master/June_Dec_Hist.PNG)
+![Precipitation Info:](https://github.com/josem279/surfs_up/blob/master/Jun_Dec_Precip_Results.PNG)
