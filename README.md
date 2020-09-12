@@ -24,6 +24,8 @@ Below are screenshots of the descriptive statistics for each month:
 
 ## Summary
 
-, two other queries that I would perform to gather more weather data for June and December are shown below:
+Our analysis, though simple, is able to convey a lot of information. After filtering data for the months of June and December, we can see that the dataset was very robust and thus very reliable for finding trends. The analysis also showed that the temperatures for the two months hardly vary and are relatively similar suggesting that the business would not only be profitable but that it would be profitable year round.
 
-1.
+Aside from our analysis, two other queries that I would perform to gather more weather data for June and December are visually depicting the information in histograms so that it is more easily and :
+
+![Histograms]()
